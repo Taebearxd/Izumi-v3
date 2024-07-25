@@ -30,10 +30,10 @@ izumi({
 
         let msg = `\n╭━━━〔 ${config.BOT_NAME} 〕━━━┈
 ╭──────────────
-❖ │  *OWNER*: ${config.OWNER_NAME}
-❖ │  *MODE*: ${config.MODE}
-❖ │  *DATE*: ${formattedDate}
-❖ │  *TIME*: ${formattedTime}
+🦢⃝۟ꥊ̸̷ │  *𝐎ω𐓣𝖾𝗋*: ${config.OWNER_NAME}
+🦢⃝۟ꥊ̸̷ │  *𝐌ⱺᑯ𝖾*: ${config.MODE}
+🦢⃝۟ꥊ̸̷ │  *𝐃α𝗍𝖾*: ${formattedDate}
+🦢⃝۟ꥊ̸̷ │  *𝐓𝗂ꭑ𝖾*: ${formattedTime}
 ╰──────────────
 ╰━━━━━━━━━━━━━━━┈\n\n`;
 
