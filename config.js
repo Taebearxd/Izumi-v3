@@ -18,7 +18,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined ? './database.db' : 
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 // Export configuration variables
 module.exports = {
-  HANDLERS: (process.env.PREFIX || '^[.,!]').trim(),
+  HANDLERS: (process.env.PREFIX || '^[.,!,🧣]').trim(),
   BRANCH: "main",
   MODE: (process.env.MODE || 'private').toLowerCase(),
   ERROR_MSG: toBool(process.env.ERROR_MSG) || true,
